@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
+
 
 ABOUT ME
 ======
