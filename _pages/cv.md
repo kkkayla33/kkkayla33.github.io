@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+University of Pittsburgh, 2019-2022(expected)
+    • Master of science in Information Science 
+    • Course Work: Intermediate Programming Using Java, Database Management, Data Analytics     (Python), Algorithm Design, Interactive System Design, Web Technologies & Standards
+    • GPA: 3.7/4.0
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Tianjin University of Financa and Economics, 2015-2019
+    • Bachelor of Management Information Systems, Minor:International Finance         September,2015 - June,2019
+    • Course Work: Website Design, Object-oriented Programming (C++), Data Analysis and Mining
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+• Programming& scripting languages: JavaScript, HTML, CSS, Java, Python, C#, C++, C
+• Framework& technology: Node.js, Express.js, jQuery, React, .NET, Bootstrap, MySQL, MongoDB 
 
-Publications
+Professional experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+GE Healthcare                                                             Beijing, China                                                                                                                               
+Intern, Commercial Operation Department                                       April,2019 - July,2019
+    • Processed commercial data using PivotTable and Visual Basic, generated weekly reports that include aggregated graphs for business tracking and performance assessment
+    • Optimized and redesigned table structure and data aggregation formulas, making it automatically update weekly varying data of new orders, paying and booking situation
   
-Talks
+Tianjin University of Finance and Economics                                         Tianjin, China                                                                         
+Research Assistant                                                                  October,2018 - March,2019
+    • Developed an electronic archive system using C# and ASP.NET, which supports functions like register, login, information inputting and changing, file upload
+    • Database design using SQL Server
+
+NNIT (Tianjin) Technology Co. Ltd                                           Tianjin, China                                                                         
+Intern, Middleware & Batch Department                                            August,2018 - January,2019
+    • Tested software performance by extracting and comparing data accuracy from database (MySQL, Oracle)
+    • Improved software accuracy performance based on SQL and configuration adjustment
+
+Project experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+YelpCamp Application – Web Application                                              December,2019 - January,2020
+    • Built a yelp-like blog application from scratch, which supports functions like register, login, browsing, making comments, publication, authentication and authorization
+    • Created JavaScript, HTML and CSS portfolio sites and pages, using Bootstrap to beautify interfaces
+    • Fulfilled functions using JavaScript, DOM and jQuery
+    • Built a full-stack web application using Express, NodeJS, jQuery, MongoDB
+
+Pitt Express – Web Application and Database Design                                   September,2019 - December,2019
+    • Built an online shopping website, using multi-user interfaces including customer, deliver men and manager
+    • Supports functions like register, login, ordering and filtering, using HTML, CSS, AJAX, PHP, MySQL
+
+Titanic Survival Prediction - Data Analysis and Modeling                             September,2019 - December,2019
+    • Built Decision Tree, Random Forest and Support Vector Machine model using Python and MATLAB
+    • Model evaluation using ROC and lift curve
+    • Generated graphs, came up conclusions on characteristics of survival population, and submitted an essay
