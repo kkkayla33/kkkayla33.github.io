@@ -31,8 +31,7 @@ Professional experience
     * Processed commercial data using PivotTable and Visual Basic, generated weekly reports that include aggregated graphs for business tracking and performance assessment
     * Optimized and redesigned table structure and data aggregation formulas, making it automatically update weekly varying data of new orders, paying and booking situation
   
-* **Tianjin University of Finance and Economics**                                                                                                             
-* October,2018 - March,2019, Research Assistant                                                                  
+* **Tianjin University of Finance and Economics**, October,2018 - March,2019, Research Assistant                                                                  
     * Developed an electronic archive system using C# and ASP.NET, which supports functions like register, login, information inputting and changing, file upload
     * Database design using SQL Server
 
