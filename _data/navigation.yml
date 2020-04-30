@@ -5,9 +5,6 @@ main:
   
   - title: "Project"
     url: /year-archive/
-  
-  - title: "Experience"
-    url: /talks/
 
   - title: "Publications"
     url: /publications/
