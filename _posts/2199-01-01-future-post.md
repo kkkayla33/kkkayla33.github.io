@@ -1,6 +1,6 @@
 ---
 title: 'Pitt Online Course-Selection Website'
-date: 2020-01-01
+date: 
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - JavaScript
