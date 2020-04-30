@@ -22,7 +22,7 @@ Education
 
 Skills
 ======
-* **Programming& scripting languages**: JavaScript, HTML, CSS, Java, Python, C#, C++, C
+* **Programming& scripting languages**: JavaScript, HTML, CSS, Java, Python, C#
 * **Framework& technology**: Node.js, Express.js, jQuery, React, .NET, Bootstrap, MySQL, MongoDB 
 
 Professional experience
@@ -40,16 +40,16 @@ Professional experience
     * Improved software accuracy performance based on SQL and configuration adjustment
 
 Project experience
-======
-* **YelpCamp Application – Web Application**, December,2019 - January,2020
-    * Built a yelp-like blog application from scratch, which supports functions like register, login, browsing, making comments, publication, authentication and authorization
-    * Created JavaScript, HTML and CSS portfolio sites and pages, using Bootstrap to beautify interfaces
-    * Fulfilled functions using JavaScript, DOM and jQuery
-    * Built a full-stack web application using Express, NodeJS, jQuery, MongoDB
-
-* **Pitt Express – Web Application and Database Design**, September,2019 - December,2019
-    * Built an online shopping website, using multi-user interfaces including customer, deliver men and manager
-    * Supports functions like register, login, ordering and filtering, using HTML, CSS, AJAX, PHP, MySQL
+======   
+* **UPMC Behavioral Medicine Website Project**, January,2020 – April,2020
+    *	Conduct user study and heuristic evaluation on the design and prototype process to make it user-friendly
+    *	Built a website for patients to explore information in behavioral medicine area, do online self-assessment, reach out to healthcare professionals. For professionals to display education and research information
+    *	Create a responsive UI with Bootstrap on JavaScript, HTML, CSS
+    
+* **Pitt Online Course-Selection Website**,	January,2020 – April,2020
+    *	Create a full-stack system and responsive UI with Bootstrap on JavaScript, HTML, CSS
+    *	Built a RESTful course management system for admins based on Express.js and achieved data storage and database seeding with MongoDB
+    *	Implemented user authentication, allowing logged in users to select courses and manage their own profile and courses
 
 * **Titanic Survival Prediction - Data Analysis and Modeling**, September,2019 - December,2019
     * Built Decision Tree, Random Forest and Support Vector Machine model using Python and MATLAB
