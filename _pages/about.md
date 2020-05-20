@@ -23,4 +23,4 @@ WHAT IS NEW ABOUT ME
 ------
 
 
-Because of the situatuation of covid19, I decided to take a gap for the fall semester. I plan to equip myself with more practical experience. So I am doing independent study of adaptive system design for the summer, and looking for an internship on web development from the fall. Hope everyone keep healthy and safe, and good luck with me.
+I am doing an independent study of adaptive system design, and looking for an internship on web development. Hope everyone keep healthy and safe, and good luck with me.
