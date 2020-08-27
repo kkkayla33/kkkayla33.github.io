@@ -23,4 +23,4 @@ WHAT IS NEW ABOUT ME
 ------
 
 
-I am doing an independent study of adaptive system design, and looking for an internship on web development. Hope everyone keep healthy and safe, and good luck with me.
+I just completed summer internship at CURVE and I am actively looking for a full time job on software/web development starting after my graduation at May 2021.
