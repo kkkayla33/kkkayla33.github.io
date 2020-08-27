@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Professional Experiences"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Professional experience
+Professional experiences
 ======
 * **CURVE Systems LLC**, May, 2020 - August, 2020, Intern, Pittsburgh, PA                                      
     * Built user-friendly frontend UI for profile page and calendar page using TypeScript based on Angular
