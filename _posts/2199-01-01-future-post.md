@@ -1,6 +1,6 @@
 ---
 title: 'Pitt Online Course-Selection Website'
-date: 2020-01-01
+date: 2019-12-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - JavaScript
@@ -9,7 +9,7 @@ tags:
   - MongoDB
 ---
 
-* **January, 2020 – April, 2020** 
+* **September, 2019 – December, 2019** 
     * Create a full-stack system and responsive UI with Bootstrap on JavaScript, HTML, CSS
     * Built a RESTful course management system for admins based on Express.js and achieved data storage and database seeding with MongoDB
     * Implemented user authentication, allowing logged in users to select courses and manage their own profile and courses.
