@@ -32,7 +32,7 @@ Professional experiences
     * Tested software performance by extracting and comparing data accuracy from database (MySQL, Oracle)
     * Improved software accuracy performance based on SQL and configuration adjustment
 
-Professional experiences
+Project experiences
 ======
 * **Text Mining and User Classification based on Tweets**, September, 2020 - December, 2020
     * Completed text mining and sentiment analysis on Tweets during the 2016 election debate using R, analyzed characteristics of two user groups based on the generated corpus
